@@ -1,8 +1,3 @@
-//
-//  Created by  fred on 2017/1/12.
-//  Copyright © 2016年 Alibaba. All rights reserved.
-//
-
 package com.alibaba.cloudapi.client;
 
 import com.alibaba.cloudapi.sdk.client.ApacheHttpClient;
